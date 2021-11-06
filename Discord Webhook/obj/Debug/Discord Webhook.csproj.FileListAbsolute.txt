@@ -1,0 +1,29 @@
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\Discord Webhook.exe.config
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\Discord Webhook.exe
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\Discord Webhook.pdb
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\obj\Debug\Discord Webhook.csproj.AssemblyReference.cache
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\obj\Debug\Discord Webhook.csproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\obj\Debug\Discord Webhook.exe
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\obj\Debug\Discord Webhook.pdb
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\Newtonsoft.Json.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\Newtonsoft.Json.xml
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\BouncyCastle.Crypto.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\System.Data.SQLite.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\Discord Webhook\bin\Debug\System.Data.SQLite.xml
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Discord Webhook.exe.config
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Discord Webhook.exe.manifest
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Discord Webhook.application
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Discord Webhook.exe
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Discord Webhook.pdb
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\BouncyCastle.Crypto.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Newtonsoft.Json.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\System.Data.SQLite.dll
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\Newtonsoft.Json.xml
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\bin\Debug\System.Data.SQLite.xml
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.csproj.AssemblyReference.cache
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.csproj.CoreCompileInputs.cache
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.exe.manifest
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.application
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.csproj.CopyComplete
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.exe
+D:\Disk C\Users\Bill\source\repos\C#\Discord Webhook\.Source code for YouTube\Discord Webhook\obj\Debug\Discord Webhook.pdb
